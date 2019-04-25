@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cashy Money</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="editbtn">edit</string>
+    <string name="addBtn">add</string>
+    <string name="googleLink">https://plus.google.com/</string>
+    <string name="back">\u003c</string>
+
+    <string-array name="spinnerNames">
+        <item>Me</item>
+        <item>Vanessa</item>
+        <item>Meng Kiong</item>
+        <item>Shao Jie</item>
+        <item>Alvina</item>
+        <item>Norman</item>
+    </string-array>
+
+    <string name="sasa">Vanessa</string>
+    <string name="mk">Meng Kiong</string>
+    <string name="sj">Shao Jie</string>
+    <string name="bina">Albina</string>
+    <string name="hor">Norman</string>
+
+
+
+</resources>
